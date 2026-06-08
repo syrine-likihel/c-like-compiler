@@ -3,7 +3,7 @@
 Compiler front-end for a custom C-like programming language.
 
 ## Technologies
-- Python (ou le langage que tu as utilisé)
+- Python 
 - Lexer
 - Parser
 
